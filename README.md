@@ -1,32 +1,49 @@
-# pokemon-simple-api
- 
-Pokémon Simple API - Search by Name
-Description
-Briefly introduce the purpose and functionality of the API, explaining what it does and how users can benefit from it.
 
-Usage
-Explain how to use the API, including the base URL, endpoints, request methods, parameters, and response format. Provide examples of API requests and sample responses.
+ # Project Name pokemon-simple-api
 
-Base URL
-Explain the base URL for accessing the API.
+Briefly introduce your project, describing its purpose and main functionalities.
 
-Endpoints
-Describe the available endpoints, their purposes, and how to utilize them.
+## Table of Contents
 
-Request Examples
-Provide practical examples of making requests to the API and showcase sample responses.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Testing](#testing)
+- [License](#license)
 
-Error Handling
-Explain how errors are handled in the API, especially when an invalid Pokémon name is provided or when the requested resource is not found.
+## Installation
 
-Usage Examples
-Present several examples demonstrating the usage of the API with different Pokémon names.
+Explain how users can install or set up your project. Include steps for:
 
-Notes
-Include any additional information, tips, or important considerations for users when utilizing the API.
+- Installing dependencies
+- Cloning the repository
+- Any specific configuration steps
 
-Resources
-Link to any relevant external documentation or resources that might assist users in understanding or working with the API.
+## Usage
 
-License
-Specify the license under which the API is distributed.
+Describe how users can use your project:
+
+- Provide examples of how to use your project's features
+- Include code snippets or commands to demonstrate usage
+- Detail any necessary input or configuration
+
+## Features
+
+List and describe the key features of your project. This section helps users understand what your project offers.
+
+## Contributing
+
+Guide potential contributors on how they can contribute to your project:
+
+- Explain how to raise issues or bug reports
+- Provide guidelines for making contributions (such as coding standards, pull request procedures)
+
+## Testing
+
+Explain how to run tests for your project, if applicable.
+
+## License
+
+Specify the license under which your project is released.
+
